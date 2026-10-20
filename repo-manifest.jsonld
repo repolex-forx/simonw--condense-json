@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/condense-json/commit/27e812f0765c396eb9f21c7e5172667290c0a9c0",
       "git:hexsha": "27e812f0765c396eb9f21c7e5172667290c0a9c0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.1",
+      "repolex:parsedAt": "2026-10-20T10:05:14.276140+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/condense-json/commit/abe1309e129e9262ae8f1d1139c0009773c4ec97",
