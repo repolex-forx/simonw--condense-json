@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "condense-json",
+  "versions": [
+    {
+      "commit": "27e812f0765c396eb9f21c7e5172667290c0a9c0",
+      "parsed_at": "2026-10-20T10:02:38.964016+00:00",
+      "tag": "1.1",
+      "filetree": "filetree/27e812f0765c396eb9f21c7e5172667290c0a9c0.nq.gz",
+      "blobs": [
+        "blob/91a9b8613fa39c5f518f3f7bac94e530c0783f1f.nq.gz",
+        "blob/8eef534a2cade6cf30a565ec8722775d55930845.nq.gz",
+        "blob/0c7715b8ee8dcfd39f5064f7916637fd7b1c4a9c.nq.gz",
+        "blob/e4e129e53b908c5d1d557ff69fe36ad2fe07f966.nq.gz",
+        "blob/c34f99089c038b4e14be43b69caa22f80ffbd46b.nq.gz",
+        "blob/fcf228abaca31891b16a32ed40f0d55aa5553a6e.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/f8c24f1c78ee59299507241e6bc4414dab376a8f.nq.gz",
+        "blob/8945bd1f5e952902c06c843e14b13615f36788a5.nq.gz",
+        "blob/c4ef7ce7500fe5e5699faf05ae4ce59efa14225e.nq.gz",
+        "blob/d64917c60fb90a5553676e17b6054ad15ec22341.nq.gz",
+        "blob/73af8722d78bd3e731e998eaad2f801603ee36b2.nq.gz",
+        "blob/eee2e1391bca184df7f641acae808de92719b978.nq.gz",
+        "blob/e79a3e743e2f481dcb565d841143553205133061.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
