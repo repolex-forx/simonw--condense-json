@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/condense-json/commit/27e812f0765c396eb9f21c7e5172667290c0a9c0",
       "git:hexsha": "27e812f0765c396eb9f21c7e5172667290c0a9c0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1"
     },
     {
