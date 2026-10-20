@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "condense-json",
+  "versions": [
+    {
+      "commit": "27e812f0765c396eb9f21c7e5172667290c0a9c0",
+      "tag": "1.1",
+      "parsed_at": "2026-10-20T10:05:14.280084+00:00"
+    }
+  ]
+}
